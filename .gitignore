@@ -1,0 +1,38 @@
+# Visual Studio
+.vs/
+*.sln
+*.user
+*.suo
+*.csproj.user
+*.csproj.lock
+*.ide
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.userprefs
+
+# Rider
+.idea/
+
+# Mac specific files
+.DS_Store
+
+# Logs
+*.log
+
+# NuGet Packages
+**/packages/*
+*.nupkg
+
+# Visual Studio Code
+.vscode/
+
+# Other IDE files
+*.code-workspace
+
+.vs/
